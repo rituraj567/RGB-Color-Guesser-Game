@@ -1,6 +1,6 @@
 # RBG Color Guesser Game
 
-To preview this game visit this link: https://github.com/rituraj567/RGB-Color-Guesser-Game
+To preview this game visit this link: https://rituraj567.github.io/RGB-Color-Guesser-Game/
 
 Instructions:
 - In this game a RGB color is shown to you and you have to guess the color.
